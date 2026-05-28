@@ -6,11 +6,19 @@ This repo doubles as a portfolio to showcase your growth as a SOC analyst — de
 
 📂 Repository Structure
 
+/detection-queries/ → Reusable KQL/SPL queries and detection logic
 /hunts/ → Writeups of completed hunts/mini-challenges
-
 /investigations/ → Case reports, modified after community feedback, with screenshots and supporting evidence
 
-/detection-queries/ → Reusable KQL/SPL queries and detection logic
+📑 Detection Query Template
+
+Each entry should include:
+
+- **Objective**: What the query is designed to find
+
+- **Suspicious Indicators**: What analysts should look for in the results
+
+- **Query**: The detection logic itself
 
 🧩 Hunt Template
 
@@ -40,23 +48,13 @@ All investigation reports should:
 
 This section highlights your ability to take feedback, improve, and document investigations — a key SOC skill.
 
-📑 Detection Query Template
-
-Each entry should include:
-
-- **Objective**: What the query is designed to find
-
-- **Suspicious Indicators**: What analysts should look for in the results
-
-- **Query**: The detection logic itself
-
 🎯 Purpose
 
 This playbook is designed to demonstrate:
 
-🔍 Threat hunting skills
-
 💻 Detection development
+
+🔍 Threat hunting skills
 
 📝 SOC triage & investigations
 
