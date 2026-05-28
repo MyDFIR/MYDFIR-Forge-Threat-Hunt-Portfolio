@@ -7,7 +7,9 @@ This repo doubles as a portfolio to showcase your growth as a SOC analyst — de
 📂 Repository Structure
 
 /detection-queries/ → Reusable KQL/SPL queries and detection logic
+
 /hunts/ → Writeups of completed hunts/mini-challenges
+
 /investigations/ → Case reports, modified after community feedback, with screenshots and supporting evidence
 
 📑 Detection Query Template
